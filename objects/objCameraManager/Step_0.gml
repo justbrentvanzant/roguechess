@@ -12,8 +12,13 @@ if (isMoving)
 		movStep+=1; 
 	}
 	else {
-		x = xMovTarg;
-		y = yMovTarg;
+		if (xMovTarg != 0) {
+			x = xMovTarg;
+		}
+		if (yMovTarg != 0) {
+			y = yMovTarg;
+		}
+	
 		isMoving = false; 	
 	}
 	

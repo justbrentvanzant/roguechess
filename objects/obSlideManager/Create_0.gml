@@ -11,6 +11,7 @@ menuSlide = noone;
 
 dailyCount = 0;
 dailyArray[0] = noone;
-
+freeArray[0] = noone;
+freeCount = 0;
 
 alarm[0] = MENU_SPAWN_TIMER;

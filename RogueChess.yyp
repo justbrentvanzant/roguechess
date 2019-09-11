@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1bd16c21-501b-457e-9647-2f435d6935f4",
+            "Value": {
+                "id": "9e647b14-fcbf-49e9-8347-0a62abc4939e",
+                "resourcePath": "scripts\\scrGoToMenu\\scrGoToMenu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "23f7b56f-c56f-43f6-8270-77f21ab64ec1",
             "Value": {
                 "id": "4f006e26-4b31-4afc-864d-781737e4d92d",
@@ -279,11 +287,27 @@
             }
         },
         {
+            "Key": "cf430623-d3a3-416b-b7d0-a55f44f6562d",
+            "Value": {
+                "id": "8a8d07c9-b016-4410-a0c8-85ba72cbe7f7",
+                "resourcePath": "scripts\\scrCreateFree\\scrCreateFree.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "deafb5a7-e7ce-46c0-ade3-8b49240d1e8b",
             "Value": {
                 "id": "0292e730-072b-4fd8-8ef4-c121a84237f7",
                 "resourcePath": "scripts\\scrExitMenu\\scrExitMenu.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ded89f3a-4337-443f-a7e1-214e0bcdca46",
+            "Value": {
+                "id": "fe57784e-f3ac-4dda-9f96-c16e2164974c",
+                "resourcePath": "objects\\objBoard\\objBoard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -354,7 +378,9 @@
     "script_order": [
         "e88d15f1-a491-45b4-bc73-090f9846bfe5",
         "deafb5a7-e7ce-46c0-ade3-8b49240d1e8b",
-        "e2aaf595-1e92-4c52-b1ed-ecce51c28727"
+        "1bd16c21-501b-457e-9647-2f435d6935f4",
+        "e2aaf595-1e92-4c52-b1ed-ecce51c28727",
+        "cf430623-d3a3-416b-b7d0-a55f44f6562d"
     ],
     "tutorial": ""
 }
