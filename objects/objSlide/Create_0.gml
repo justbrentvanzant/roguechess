@@ -6,6 +6,10 @@ CIRCLE_RADIUS = 60;
 SHADOW_OFFSET = ceil(WIDTH_OFFSET/5); 
 SHADOW_OFFSET_X = 2*ceil(SHADOW_OFFSET/5);
 
+//slider type
+isMenu = false; 
+isDaily = false; 
+isFree = false; 
 
 //slider drawing
 myPrimaryColor = objColorManager.th1b3;

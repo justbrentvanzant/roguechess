@@ -71,11 +71,35 @@
             }
         },
         {
+            "Key": "2e19723e-9467-405c-96a5-fbb7ffd4b38d",
+            "Value": {
+                "id": "c4e41c9a-06a4-4275-802e-491ec41f4c3b",
+                "resourcePath": "views\\2e19723e-9467-405c-96a5-fbb7ffd4b38d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2f554208-de11-4469-bac7-2bed48745c9d",
             "Value": {
                 "id": "ecbfde43-91eb-4e4c-b2a4-baeef4d5e64d",
                 "resourcePath": "objects\\obSlideManager\\obSlideManager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "364aa5d0-6338-428f-ada9-d9edd12b2ece",
+            "Value": {
+                "id": "09c84c3d-4d3f-4a1f-acea-de8cf515bae8",
+                "resourcePath": "objects\\objCard\\objCard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c4870e4-e656-483d-b589-5f644a8b1d49",
+            "Value": {
+                "id": "a96195da-d5e5-44b7-8eb2-3b275514c8d1",
+                "resourcePath": "views\\4c4870e4-e656-483d-b589-5f644a8b1d49.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -100,6 +124,14 @@
                 "id": "5717b4f4-02d6-4690-a7c0-89a242a131d1",
                 "resourcePath": "views\\551c63f5-dd3b-4761-b6e4-f3320d50ea6f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66027768-b186-41da-b2f9-bc7395e7e7cb",
+            "Value": {
+                "id": "b92f1e90-111b-4f2e-901c-0541d335f576",
+                "resourcePath": "objects\\objRogue\\objRogue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +180,14 @@
                 "id": "b208085b-4901-42b9-91e8-934e53cd6e3f",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "939ec664-82b2-4822-8052-d20dd01e850b",
+            "Value": {
+                "id": "e46e2718-35fe-4930-a81d-a10bd8d4492f",
+                "resourcePath": "objects\\objPiece\\objPiece.yy",
+                "resourceType": "GMObject"
             }
         },
         {
