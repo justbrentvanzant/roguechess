@@ -1,6 +1,6 @@
 /// @description Setup the Camera
-width = 720;
-height = 1280;
+width = room_width;
+height = room_height;
 view_camera[0] =  camera_create_view(0, 0, width, height, 0, self, -1, -1, width, height);
 x = camera_get_view_width(view_camera[0])/2;
 y = camera_get_view_height(view_camera[0])/2;

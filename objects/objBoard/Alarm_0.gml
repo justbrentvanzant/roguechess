@@ -1,0 +1,2 @@
+generateBoard(size);
+isActive = true;

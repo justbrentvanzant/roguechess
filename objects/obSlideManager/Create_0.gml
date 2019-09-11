@@ -1,6 +1,6 @@
 /// @description Change Background
 MENU_SPAWN_TIMER = 4; 
-scrChangeBackground(objColorManager.th1b1);
+
 nextSpawnX = 0; 
 nextSpawnY = 0; 
 

@@ -8,3 +8,6 @@ var newSlide = instance_create_depth(obSlideManager.menuSlide.x + (((obSlideMana
 obSlideManager.dailyArray[obSlideManager.dailyCount] = newSlide;
 obSlideManager.dailyCount += 1;
 obSlideManager.currentSlide = newSlide;
+with (newSlide) {
+	createBoard(8,0);
+}

@@ -1,0 +1,1 @@
+scrChangeBackground(objColorManager.th1b);
