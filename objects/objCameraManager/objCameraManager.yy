@@ -1,18 +1,28 @@
 {
-    "id": "6d6ce024-dafa-4033-b2c2-48633c498049",
+    "id": "79a1df15-22ae-46db-8525-c655bfa8fda5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objBoardManager",
+    "name": "objCameraManager",
     "eventList": [
         {
-            "id": "0b7c2ed0-9032-42f8-9bd5-352c2ae50447",
+            "id": "46bb03f5-7b6d-4ec2-b84c-df649be48963",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6d6ce024-dafa-4033-b2c2-48633c498049"
+            "m_owner": "79a1df15-22ae-46db-8525-c655bfa8fda5"
+        },
+        {
+            "id": "f0e837d4-7c42-446c-82a3-bf907572527c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "79a1df15-22ae-46db-8525-c655bfa8fda5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

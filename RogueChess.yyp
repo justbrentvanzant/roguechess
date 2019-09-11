@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "05cc8555-068a-4e95-b9f6-6a9ee6099672",
+            "Value": {
+                "id": "e4b7f19a-c0eb-402a-89c5-bd6f9320316e",
+                "resourcePath": "objects\\objColorManager\\objColorManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f48d7a8-be11-40e5-b852-73cf9f564878",
+            "Value": {
+                "id": "457649a3-7d6e-43ea-a463-9dece82bc59c",
+                "resourcePath": "objects\\objSlide\\objSlide.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23f7b56f-c56f-43f6-8270-77f21ab64ec1",
             "Value": {
                 "id": "4f006e26-4b31-4afc-864d-781737e4d92d",
@@ -58,7 +74,15 @@
             "Key": "2f554208-de11-4469-bac7-2bed48745c9d",
             "Value": {
                 "id": "ecbfde43-91eb-4e4c-b2a4-baeef4d5e64d",
-                "resourcePath": "objects\\objBackgroundManager\\objBackgroundManager.yy",
+                "resourcePath": "objects\\obSlideManager\\obSlideManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "52b09037-c9d5-4a06-8264-2873d2e8286f",
+            "Value": {
+                "id": "9bfeb8cd-9bc6-4132-a622-a05eadfba343",
+                "resourcePath": "objects\\objUIManager\\objUIManager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -83,6 +107,14 @@
             "Value": {
                 "id": "4de79dee-01c3-4a12-95d9-9f5a33014770",
                 "resourcePath": "objects\\objBoardManager\\objBoardManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "79a1df15-22ae-46db-8525-c655bfa8fda5",
+            "Value": {
+                "id": "9393c2de-56c1-40a2-866d-9b3db86ca1b4",
+                "resourcePath": "objects\\objCameraManager\\objCameraManager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -151,6 +183,14 @@
             }
         },
         {
+            "Key": "adbcc6df-441f-4f36-8f44-7da5ea004c69",
+            "Value": {
+                "id": "90bd7e9f-7902-43f5-a105-e8903d5319cb",
+                "resourcePath": "objects\\objPackager\\objPackager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4371e62-871f-43a0-b230-11f5cb2b488b",
             "Value": {
                 "id": "c8748249-1504-44fc-bfe9-980b0f9a9019",
@@ -199,11 +239,35 @@
             }
         },
         {
+            "Key": "deafb5a7-e7ce-46c0-ade3-8b49240d1e8b",
+            "Value": {
+                "id": "0292e730-072b-4fd8-8ef4-c121a84237f7",
+                "resourcePath": "scripts\\scrExitMenu\\scrExitMenu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e2aaf595-1e92-4c52-b1ed-ecce51c28727",
+            "Value": {
+                "id": "7fdc0cc2-8419-453d-8ae2-5b8b2722eb3d",
+                "resourcePath": "scripts\\scrCreateDaily\\scrCreateDaily.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "f352019f-06be-4dba-88a0-26731ba533a1",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e88d15f1-a491-45b4-bc73-090f9846bfe5",
+            "Value": {
+                "id": "b658e498-fcdb-4c48-8af0-8feaaaedea02",
+                "resourcePath": "scripts\\scrChangeBackground\\scrChangeBackground.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -242,13 +306,15 @@
             "Key": "ff2ecb76-ee49-4b2b-a5ea-dbf41f6a5e18",
             "Value": {
                 "id": "fa355908-9009-4ae9-8a6a-b9449c1a7f53",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rmTest\\rmTest.yy",
                 "resourceType": "GMRoom"
             }
         }
     ],
     "script_order": [
-        
+        "e88d15f1-a491-45b4-bc73-090f9846bfe5",
+        "deafb5a7-e7ce-46c0-ade3-8b49240d1e8b",
+        "e2aaf595-1e92-4c52-b1ed-ecce51c28727"
     ],
     "tutorial": ""
 }

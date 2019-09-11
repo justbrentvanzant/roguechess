@@ -1,18 +1,28 @@
 {
-    "id": "6d6ce024-dafa-4033-b2c2-48633c498049",
+    "id": "2f554208-de11-4469-bac7-2bed48745c9d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objBoardManager",
+    "name": "obSlideManager",
     "eventList": [
         {
-            "id": "0b7c2ed0-9032-42f8-9bd5-352c2ae50447",
+            "id": "183fa9ac-642a-4b61-80fe-62ff5424bf97",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6d6ce024-dafa-4033-b2c2-48633c498049"
+            "m_owner": "2f554208-de11-4469-bac7-2bed48745c9d"
+        },
+        {
+            "id": "381cf1ec-e840-4356-ae8f-c612f1aeafcd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "2f554208-de11-4469-bac7-2bed48745c9d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
